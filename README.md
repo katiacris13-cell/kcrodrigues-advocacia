@@ -1,8 +1,8 @@
 # Site KC Rodrigues Advocacia
 
-Site estático pronto para Vercel.
+Versão estática compatível com Vercel.
 
-Arquivos necessários:
+Arquivos:
 - index.html
 - package.json
 
