@@ -1,9 +1,12 @@
-# Site KC Rodrigues Advocacia
+# KC Rodrigues Advocacia
 
-Versão estática compatível com Vercel.
+Site estático para Vercel.
 
-Arquivos:
-- index.html
+Estrutura correta:
+- public/index.html
 - package.json
+- README.md
 
-Não use vercel.json.
+Configuração na Vercel:
+- Framework Preset: Other
+- Output Directory: public

@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "mkdir -p dist && cp index.html dist/index.html"
+    "build": "echo static site ready"
   },
   "dependencies": {},
   "devDependencies": {}
