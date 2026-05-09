@@ -1,6 +1,7 @@
+
 {
   "scripts": {
-    "build": "mkdir -p public && cp index.html public/index.html"
+    "build": "echo pronto"
   },
   "dependencies": {},
   "devDependencies": {}
