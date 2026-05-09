@@ -1,18 +1,10 @@
 {
-  "name": "kcrodrigues-advocacia",
+  "name": "kcrodrigues-advocacia-static",
   "version": "1.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
-    "dev": "vite --host 0.0.0.0",
-    "build": "vite build",
-    "preview": "vite preview --host 0.0.0.0"
-  },
-  "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "^5.4.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "build": "mkdir -p dist && cp index.html dist/index.html",
+    "start": "echo 'Static site ready'"
   },
   "devDependencies": {}
 }
